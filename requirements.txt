@@ -1,0 +1,11 @@
+matplotlib==3.10.7
+matplotlib-inline==0.2.1
+nltk==3.9.2
+pandas==2.3.2
+python-dateutil==2.9.0.post0
+streamlit==1.50.0
+streamlit-navigation-bar==3.3.0
+streamlit-option-menu==0.4.0
+tokenizers==0.22.1
+wordcloud==1.9.4
+plotly==6.3.0
